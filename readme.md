@@ -64,6 +64,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
   Após isso aparecerá a porta do seu servidor.
   #
-  Feito com ❤️ por Marcelo Benites👋🏻 <a href="https://www.linkedin.com/in/marcelo-benites-2a2893168/">Linkedin</a>!
+  Feito com ❤️ por Marcelo Benites👋🏻 <a href="https://www.linkedin.com/in/omarcelobenites/">Linkedin</a>!
 
 
